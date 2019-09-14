@@ -1,6 +1,6 @@
 # Git Tutorial
 
-I made this tutorial for a fellow worker back when I was an intern at @csorbamedia
+I made this tutorial for a fellow worker back when I was an intern at [@csorbamedia](https://github.com/csorbamedia)
 
 ## Getting Started
 
